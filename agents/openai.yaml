@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音 AI 视频选题雷达"
+  short_description: "查抖音热门 AI 视频，整理 30 秒内的动作迁移与原创短片候选"
+  default_prompt: "使用 $douyin-ai-trends 查近两周抖音热门 AI 视频，优先整理 30 秒内可做单人或多人角色替换的题材和原创 AI 短片，列出时长、热度、参考、优先级和低成本拍法，由我选题。"
